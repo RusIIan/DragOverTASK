@@ -1,0 +1,60 @@
+.container-image1{
+  background-image: url('https://source.unsplash.com/random/150x150');
+  position: relative;
+  height: 150px;
+  width: 150px;
+  top: 5px;
+  left: 5px;
+  cursor: pointer;
+}
+.empty{
+  display: inline-block;
+  width: 160px;
+  height: 160px;
+  margin: 10px;
+  border: 3px solid aqua;
+  background-color: white;
+  overflow: hidden;
+}
+.disable{
+    display: none;
+}
+.hold{
+    border: 3px solid #f5f6;
+}
+.hovered{
+    background: #f4f4f4;
+    border-style: dashed;
+}
+
+.container-image2{
+  position: relative;
+  height: 50px;
+  width: 100px;
+  top: 5px;
+  left: 5px;
+  cursor: pointer;
+}
+.empty1{
+  display: inline-block;
+  height: 50px;
+  width: 122px;
+  margin: 10px;
+  border: 3px solid rgb(246, 179, 44);
+  background-color: white;
+  overflow: hidden;
+}
+
+.disable1{
+    display: none;
+}
+.hold1{
+    border: 3px solid rgb(120, 70, 70);
+}
+.hovered1{
+    background: #f4f4f4;
+    border-style: dashed;
+}
+
+
+ 
